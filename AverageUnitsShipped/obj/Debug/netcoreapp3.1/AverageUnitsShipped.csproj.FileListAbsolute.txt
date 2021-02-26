@@ -1,0 +1,15 @@
+C:\Users\wille\source\repos\AverageUnitsShipped\bin\Debug\netcoreapp3.1\AverageUnitsShipped.exe
+C:\Users\wille\source\repos\AverageUnitsShipped\bin\Debug\netcoreapp3.1\AverageUnitsShipped.deps.json
+C:\Users\wille\source\repos\AverageUnitsShipped\bin\Debug\netcoreapp3.1\AverageUnitsShipped.runtimeconfig.json
+C:\Users\wille\source\repos\AverageUnitsShipped\bin\Debug\netcoreapp3.1\AverageUnitsShipped.runtimeconfig.dev.json
+C:\Users\wille\source\repos\AverageUnitsShipped\bin\Debug\netcoreapp3.1\AverageUnitsShipped.dll
+C:\Users\wille\source\repos\AverageUnitsShipped\bin\Debug\netcoreapp3.1\AverageUnitsShipped.pdb
+C:\Users\wille\source\repos\AverageUnitsShipped\obj\Debug\netcoreapp3.1\AverageUnitsShipped.csprojAssemblyReference.cache
+C:\Users\wille\source\repos\AverageUnitsShipped\obj\Debug\netcoreapp3.1\AverageUnitsShipped.formAverageUnitsShipped.resources
+C:\Users\wille\source\repos\AverageUnitsShipped\obj\Debug\netcoreapp3.1\AverageUnitsShipped.csproj.GenerateResource.cache
+C:\Users\wille\source\repos\AverageUnitsShipped\obj\Debug\netcoreapp3.1\AverageUnitsShipped.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\AverageUnitsShipped\obj\Debug\netcoreapp3.1\AverageUnitsShipped.AssemblyInfo.cs
+C:\Users\wille\source\repos\AverageUnitsShipped\obj\Debug\netcoreapp3.1\AverageUnitsShipped.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\AverageUnitsShipped\obj\Debug\netcoreapp3.1\AverageUnitsShipped.dll
+C:\Users\wille\source\repos\AverageUnitsShipped\obj\Debug\netcoreapp3.1\AverageUnitsShipped.pdb
+C:\Users\wille\source\repos\AverageUnitsShipped\obj\Debug\netcoreapp3.1\AverageUnitsShipped.genruntimeconfig.cache
